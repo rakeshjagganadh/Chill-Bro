@@ -1,0 +1,8 @@
+{
+  "name": "Remix Chill Bro",
+  "description": "A hub for online multiplayer party games including Draw \u0026 Guess and Cine-Quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
